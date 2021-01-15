@@ -1,2 +1,3 @@
-# coolstuff-articles
-My collection of articles on various topics of computer science and software engineering.
+# CoolStuff Articles
+
+My curated list of the articles that I found best and unbiased on certain topics of computer science and software engineering.
